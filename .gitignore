@@ -1,9 +1,5 @@
-.gradle
-build/
-target/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
+### Maven
+/target
 
 ### IntelliJ IDEA ###
 .idea
